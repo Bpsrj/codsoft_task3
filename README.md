@@ -14,14 +14,13 @@ This is my Level 1 - Task 3 submission for the **CodSoft Web Development Interns
 | `index.html`      | Main calculator interface (renamed from `calculator.html`) |
 | `calculator.css`  | Styling for the calculator layout   |
 | `calculator.js`   | JavaScript logic for all operations |
-| `calculatorSS.png`| Screenshot image of the calculator  |
 
 ---
 
 ## ⚙️ Technologies Used
 
-- ✅ HTML5
-- ✅ CSS3
+- ✅ HTML
+- ✅ CSS
 - ✅ JavaScript (Vanilla)
 
 ---
